@@ -37,7 +37,7 @@ plugins:
 category_dir: category/
 tag_dir: tag/
 
-repository: /Users/zmac/Desktop/jekyll-Root's blog
+repository: root-blog.github.io
 github_url: https://github.com/RootZP
 url: https://root-blog.github.io
 
