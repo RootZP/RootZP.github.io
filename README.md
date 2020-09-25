@@ -4,30 +4,17 @@ title: About
 permalink: /about/
 ---
 
-## Theme Monos
-> Simple and lightweight theme for Jekyll
+## My job
+> 17届福州大学至诚学院的毕业生，16年大四实习阶段经由朋友介绍去上海一家公司实习，基本掌握iOS开发技能。毕业之后选择到深圳发展，期间更换了两家公司都是从事iOS研发工作。
+>
+> 第一家从事移动社交产品的研发，包含社交商城以及视频社交。得益于较为规范的开发流程以及较好的技术氛围，个人编码规范，review 习惯得到较好的引导和提升。个人也得到了了很大程度的提升。
+>
+> 第二家公司业务主要是做汽车消费相关的，主要业务是线上油卡，加油分期和分期付款，地图寻找路线油站等功能。由于研发时间宽裕，个人重心放在设计模式，基础框架以及项目的优化上，并且给公司提供了一套组件化方案，工具库和业务架构，基于技术的沉淀以及表现，本人在公司内被评为高级iOS开发的职位。
 
-### Features
-- Responsive.
-- Syntax Highlight
-- Most optimized theme for tech blog.
-- Lightweight with minimum stylesheet.
-- Easy to customize.
-- Offers category menu.
+## Other things
 
-### _config.yml
-> Code block will look like this.
-```yml
-highlighter-theme: monokai //you can change your syntax color scheme.
-date_format: "%Y-%M-%D" //and date format.
-```
-
-### Screenshots
-#### Page
-![alt text](/public/img/screenshot-1.png)
-#### Articles
-![alt text](/public/img/screenshot-2.png)
-#### Page - Mobile
-![alt text](/public/img/screenshot-m1.png)
-#### Page - Articles
-![alt text](/public/img/screenshot-m2.png)
+- 运动让人变得更加积极
+- 多思考
+- 乐于一起做事情，这让人感到有存在感
+- 自己的终身大事犹豫不决，不敢决断，最终结局有可能都受到伤害
+- 需要集中注意力
